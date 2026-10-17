@@ -1,0 +1,6 @@
+{
+  "name": "AI Face Scanner & Secret Vault",
+  "description": "Web scan mặt vui nhộn, tự động nhận diện và ghi hình khuôn mặt khi có người vào xem, lưu trữ bảo mật vào Kho Lưu Trữ.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
